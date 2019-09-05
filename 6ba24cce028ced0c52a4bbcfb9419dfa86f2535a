@@ -1,0 +1,1 @@
+{"jobID":"04c2c4de-c88f-1a68-f896-006bc7038c8e","spec":{"type":"policy","cause":{"Message":"","User":"Hari Sekhon \u003charisekhon@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
